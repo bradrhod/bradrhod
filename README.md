@@ -11,6 +11,7 @@ I've spent 25+ years running infrastructure that can't go down: 10,000+ servers,
 - Grew a 20-person team to 75 at Microsoft; hired hundreds of engineers across two decades
 
 **Currently:**
+- Building [`PeachOS`](https://github.com/bradrhod/PeachOS), an x86 OS kernel from scratch in C — bootloader, protected mode, IDT, kernel heap allocator, and paging done; process scheduler and filesystem up next ([more on why](https://www.linkedin.com/posts/bradrhod_im-building-an-operating-system-from-scratch-share-7506034656081809408-E8W5/))
 - Rebuilding coding fundamentals daily ([`leetcode`](https://github.com/bradrhod/leetcode)) and keeping systems-level C sharp ([`bowlingscoring`](https://github.com/bradrhod/bowlingscoring))
 - Building a multi-node GPU cluster project focused on the reliability layer AI infrastructure teams actually need: fleet health checks, automated node drain/replace, chaos testing, and incident runbooks — more soon
 
